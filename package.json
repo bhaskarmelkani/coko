@@ -1,0 +1,54 @@
+{
+  "name": "coko",
+  "version": "1.0.1",
+  "description": "A minimal convention over configuration framework built on Koa. ",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --ext .js",
+    "lint:report": "npm run lint -- -f checkstyle --output-file target/checkstyle.xml",
+    "start": "node index"
+  },
+  "devDependencies": {
+    "eslint": "^4.11.0"
+  },
+  "dependencies": {
+    "boom": "^7.1.1",
+    "ejs": "^2.5.7",
+    "es6-promisify": "^5.0.0",
+    "include-all": "^4.0.3",
+    "koa": "^2.4.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-compose": "^4.0.0",
+    "koa-conditional-get": "^2.0.0",
+    "koa-etag": "^3.0.0",
+    "koa-helmet": "^3.2.0",
+    "koa-logger": "^3.1.0",
+    "koa-morgan": "^1.0.1",
+    "koa-qs": "^2.0.0",
+    "koa-router": "^7.2.1",
+    "koa-safe-jsonp": "^0.3.1",
+    "koa-views": "^6.1.2",
+    "lodash": "^4.17.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaskarmelkani/coko.git"
+  },
+  "keywords": [
+    "koa",
+    "koa2",
+    "koajs",
+    "koa-framweork",
+    "koa-boilerplate",
+    "node-boilerplate",
+    "boilerplate",
+    "framweork"
+  ],
+  "author": "bhaskarmelkani <melkani.bhaskar@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/bhaskarmelkani/coko/issues"
+  },
+  "homepage": "https://github.com/bhaskarmelkani/coko#readme"
+}
