@@ -73,6 +73,7 @@ coko is still developing and is ambitious to get features that should be provide
 * If required add authentication strategies.
 * Add support for database handling.
 * Add cli for generating seed.
+* Asset(cs/js/image) handling.
 
 ## <a name="developement-&-contributing"></a> Developement and Contributing
 
