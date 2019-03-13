@@ -16,7 +16,7 @@
   "dependencies": {
     "boom": "^7.1.1",
     "ejs": "^2.5.7",
-    "es6-promisify": "^5.0.0",
+    "es6-promisify": "^6.0.1",
     "include-all": "^4.0.3",
     "koa": "^2.4.1",
     "koa-bodyparser": "^4.2.0",
