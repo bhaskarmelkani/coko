@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "boom": "^7.1.1",
-    "ejs": "^2.5.7",
+    "ejs": "^3.1.6",
     "es6-promisify": "^5.0.0",
     "include-all": "^4.0.3",
     "koa": "^2.4.1",
